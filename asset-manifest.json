@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-clean-architecture/static/css/main.a949ca45.css",
+    "main.js": "/react-clean-architecture/static/js/main.14e39ae5.js",
+    "static/media/primeicons.svg": "/react-clean-architecture/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/react-clean-architecture/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/react-clean-architecture/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/react-clean-architecture/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/react-clean-architecture/index.html",
+    "main.a949ca45.css.map": "/react-clean-architecture/static/css/main.a949ca45.css.map",
+    "main.14e39ae5.js.map": "/react-clean-architecture/static/js/main.14e39ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a949ca45.css",
+    "static/js/main.14e39ae5.js"
+  ]
+}
