@@ -1,6 +1,6 @@
 {
   "name": "clean-architecture",
-  "homepage": "https://Sebosek.github.io/clean-architecture",
+  "homepage": "https://Sebosek.github.io/react-clean-architecture",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
